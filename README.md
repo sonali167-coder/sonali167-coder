@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali167-coder" alt="sonali167-coder" /></a> </p>
 
-- 🔭 I’m currently working on **Fitfreak-GYM ERP System**
+- 🔭 I’m currently working on **Insightify**
 
 - 🌱 I’m currently learning **MERN**
 
